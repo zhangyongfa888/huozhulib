@@ -3,15 +3,10 @@
   <groupId>zhidanhyb.huozhu</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.4</release>
+    <release>1.0.4-a</release>
     <versions>
-      <version>1.0.0</version>
-      <version>1.0.1</version>
-      <version>1.0.2</version>
-      <version>1.0.3</version>
-      <version>1.0.3x</version>
-      <version>1.0.4</version>
+      <version>1.0.4-a</version>
     </versions>
-    <lastUpdated>20190723020927</lastUpdated>
+    <lastUpdated>20190723022641</lastUpdated>
   </versioning>
 </metadata>

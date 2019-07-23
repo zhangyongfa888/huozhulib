@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>zhidanhyb.huozhu</groupId>
   <artifactId>core</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-a</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
