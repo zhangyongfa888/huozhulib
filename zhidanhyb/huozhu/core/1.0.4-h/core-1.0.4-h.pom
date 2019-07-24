@@ -116,5 +116,35 @@
       <version>0.9.8</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.umeng.sdk</groupId>
+      <artifactId>share-core</artifactId>
+      <version>6.9.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.umeng.sdk</groupId>
+      <artifactId>share-qq</artifactId>
+      <version>6.9.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.umeng.sdk</groupId>
+      <artifactId>share-wechat</artifactId>
+      <version>6.9.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.umeng.sdk</groupId>
+      <artifactId>share-sina</artifactId>
+      <version>6.9.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.umeng.sdk</groupId>
+      <artifactId>shareboard-widget</artifactId>
+      <version>6.9.1</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
