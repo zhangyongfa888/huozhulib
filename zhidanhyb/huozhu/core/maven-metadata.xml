@@ -3,7 +3,7 @@
   <groupId>zhidanhyb.huozhu</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.4-q</release>
+    <release>1.0.4-r</release>
     <versions>
       <version>1.0.4-e</version>
       <version>1.0.4-f</version>
@@ -17,7 +17,8 @@
       <version>1.0.4-o</version>
       <version>1.0.4-p</version>
       <version>1.0.4-q</version>
+      <version>1.0.4-r</version>
     </versions>
-    <lastUpdated>20190905071115</lastUpdated>
+    <lastUpdated>20191017034548</lastUpdated>
   </versioning>
 </metadata>
