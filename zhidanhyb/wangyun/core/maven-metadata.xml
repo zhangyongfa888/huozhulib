@@ -3,7 +3,7 @@
   <groupId>zhidanhyb.wangyun</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.4.8-i</release>
+    <release>1.0.4.8-j</release>
     <versions>
       <version>1.0.4.8-c</version>
       <version>1.0.4.8-d</version>
@@ -12,7 +12,8 @@
       <version>1.0.4.8-g</version>
       <version>1.0.4.8-h</version>
       <version>1.0.4.8-i</version>
+      <version>1.0.4.8-j</version>
     </versions>
-    <lastUpdated>20201211003212</lastUpdated>
+    <lastUpdated>20201217025630</lastUpdated>
   </versioning>
 </metadata>
