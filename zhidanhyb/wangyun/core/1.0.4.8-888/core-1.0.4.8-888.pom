@@ -28,6 +28,12 @@
     </dependency>
     <dependency>
       <groupId>com.umeng.umsdk</groupId>
+      <artifactId>asms</artifactId>
+      <version>1.2.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.umeng.umsdk</groupId>
       <artifactId>apm</artifactId>
       <version>1.2.0</version>
       <scope>compile</scope>
@@ -141,18 +147,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.umeng.sdk</groupId>
-      <artifactId>analytics</artifactId>
-      <version>7.5.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.umeng.sdk</groupId>
-      <artifactId>common</artifactId>
-      <version>1.5.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.scwang.smartrefresh</groupId>
       <artifactId>SmartRefreshLayout</artifactId>
       <version>1.1.0-alpha-7</version>
@@ -168,12 +162,6 @@
       <groupId>com.didi.virtualapk</groupId>
       <artifactId>core</artifactId>
       <version>0.9.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.umeng.umsdk</groupId>
-      <artifactId>asms</artifactId>
-      <version>1.2.2</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
